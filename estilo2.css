@@ -1,0 +1,23 @@
+body{
+    background-image: url("img/sanic.gif");
+    background-color: hotpink;
+}
+p{
+    text-indent: 30px;
+}
+p.centro{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+p.direita{
+    text-align: right;
+    text-decoration: unset;
+    text-transform: uppercase;
+}
+p.justificado{
+    text-align: justify;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    letter-spacing: 30px;
+}
