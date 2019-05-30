@@ -1,5 +1,5 @@
 body{
-    background-image: url("/img/sanic.gif");
+    background-image: url("img/sanic.gif");
     background-color: hotpink;
 }
 p{
